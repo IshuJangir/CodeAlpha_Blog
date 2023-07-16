@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/CodeAlpha_Blog/static/css/main.224d46fc.css",
+    "main.js": "/CodeAlpha_Blog/static/js/main.93367b75.js",
+    "static/js/787.8b7042b1.chunk.js": "/CodeAlpha_Blog/static/js/787.8b7042b1.chunk.js",
+    "static/media/food.png": "/CodeAlpha_Blog/static/media/food.a62e62c504d3ab7d9fd8.png",
+    "static/media/f1.jpg": "/CodeAlpha_Blog/static/media/f1.d901456297024e93410c.jpg",
+    "static/media/tr2.jpg": "/CodeAlpha_Blog/static/media/tr2.cdcc945e80cc293be478.jpg",
+    "static/media/tr1.jpg": "/CodeAlpha_Blog/static/media/tr1.6172b4b5a4a83c4ca92a.jpg",
+    "static/media/s2.jpeg": "/CodeAlpha_Blog/static/media/s2.7bd5594d04527f0bbe89.jpeg",
+    "static/media/tr3.jpg": "/CodeAlpha_Blog/static/media/tr3.a6f73e7ad04d468514b1.jpg",
+    "static/media/s1.jpg": "/CodeAlpha_Blog/static/media/s1.4fb8b06908776612b6be.jpg",
+    "static/media/travel.png": "/CodeAlpha_Blog/static/media/travel.89a8ac166737399a1180.png",
+    "static/media/hero.png": "/CodeAlpha_Blog/static/media/hero.f0f28e0a0bf7b64c9d02.png",
+    "static/media/fashion.png": "/CodeAlpha_Blog/static/media/fashion.a07a321a979d33905d5e.png",
+    "static/media/insta.png": "/CodeAlpha_Blog/static/media/insta.964ed85f14cfc3fa1e76.png",
+    "static/media/fo2.jpg": "/CodeAlpha_Blog/static/media/fo2.a6165e84c9b5867b75b2.jpg",
+    "static/media/tele.png": "/CodeAlpha_Blog/static/media/tele.9b670569226e7a788716.png",
+    "static/media/dis.png": "/CodeAlpha_Blog/static/media/dis.1fbc6865d5e69a6d6d3c.png",
+    "static/media/m2.jpg": "/CodeAlpha_Blog/static/media/m2.c0b668ebf288f436755f.jpg",
+    "static/media/t3.jpeg": "/CodeAlpha_Blog/static/media/t3.8271c0ce100f1be3889a.jpeg",
+    "static/media/tech.png": "/CodeAlpha_Blog/static/media/tech.ab56bc0db44da2c65f6a.png",
+    "static/media/social.jpg": "/CodeAlpha_Blog/static/media/social.67b19b63dd679ce2d328.jpg",
+    "static/media/t1.jpg": "/CodeAlpha_Blog/static/media/t1.57ab1bf79cd3863e3fdd.jpg",
+    "static/media/linked.png": "/CodeAlpha_Blog/static/media/linked.3cbb87a4e7ab5e1ee868.png",
+    "static/media/fo1.jpg": "/CodeAlpha_Blog/static/media/fo1.1ad03dd40ce5a12b93cc.jpg",
+    "static/media/f2.webp": "/CodeAlpha_Blog/static/media/f2.1b88e1654bf2217b753f.webp",
+    "static/media/meditate.jpg": "/CodeAlpha_Blog/static/media/meditate.251151498df74de7b522.jpg",
+    "static/media/artsign.png": "/CodeAlpha_Blog/static/media/artsign.299ad0ab94209af529cb.png",
+    "static/media/f3.webp": "/CodeAlpha_Blog/static/media/f3.4a4b361cb49d6e1cb41e.webp",
+    "static/media/m1.avif": "/CodeAlpha_Blog/static/media/m1.6b19fd3052d421cbe7db.avif",
+    "static/media/t2.webp": "/CodeAlpha_Blog/static/media/t2.96abf3fdd14e3ded6589.webp",
+    "index.html": "/CodeAlpha_Blog/index.html",
+    "main.224d46fc.css.map": "/CodeAlpha_Blog/static/css/main.224d46fc.css.map",
+    "main.93367b75.js.map": "/CodeAlpha_Blog/static/js/main.93367b75.js.map",
+    "787.8b7042b1.chunk.js.map": "/CodeAlpha_Blog/static/js/787.8b7042b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224d46fc.css",
+    "static/js/main.93367b75.js"
+  ]
+}
