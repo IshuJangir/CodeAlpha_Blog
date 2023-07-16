@@ -33,7 +33,7 @@ export default function App() {
 
       <Routes>
 
-        <Route path='/' Component={Home} ></Route>
+        <Route path='/CodeAlpha_Blog' Component={Home} ></Route>
         <Route path='/fashion' Component={Fashion} ></Route>
         <Route path='/tech' Component={Tech} ></Route>
         <Route path='/food' Component={Food} ></Route>
