@@ -1,0 +1,12 @@
+import React from 'react'
+import fo2 from '../assets/fo2.jpg'
+
+export default function Fopage2() {
+  return (
+    <div>
+      <img className='w-[65%] mx-auto h-[30%]' src={fo2} alt="" />
+      <p className="w-[80%] text-slate-600 mt-10 mx-auto" >This Sunday is Mother’s Day and if you’re looking for ways to celebrate the mom in your life, we’ve got you covered. We know that right now it can be hard to get to the store to buy a gift, so we’re giving you all sorts of ideas for gifts from the kitchen. In this blog post, we’re covering breakfast-in-bed ideas and other food gifts that don’t need to be eaten immediately. <br /> <br /> Make sure to also check out our most recent ChopChop Kids Club newsletter dedicated to Mother’s Day. In it you’ll find not only one of our most favorite breakfast recipes (that you won’t find in this blog post) but also fun facts, helpful skills, more gift ideas, and special activities to honor this holiday.  <br /> And remember, by “mother” we don’t just mean a female parent; we mean anyone who nurtures you, so we hope you can spend this Sunday honoring any and all motherly figures. We believe that anyone can be your “mother” or “grandmother,” including your uncle or even a friend. <br /> Note: If you’re too young to cook solo, get help from another adult (even your mom—she’ll still appreciate it!), and if you are old enough not to need one, let it be a surprise! <br /> <br /> <br />  Wake your mom up with delicious smells from the kitchen on Sunday morning. Make one or several of the recipes below and let Mom eat in bed. <br /> <br /> 1.Buttermilk Pancakes <br /> 2.Classic French Toast  <br />3.Top-Your-Own Breakfast Taco <br /> 4.Pizza Toast <br /> 5.Layered Yogurt Parfait <br /> 6.Cheesy Scrambled Eggs <br />  7.Tropical Smoothie <br /> 8.Basic Frittata <br /> <br /> <br /> Make any of these edible gifts ahead of time or on Mother’s Day. All of them can be “wrapped” in one way or another—with string, gift tags, or however you’d like! Let your creativity loose and give Mom one or several of these giftable food ideas. <br /> <br /> 1.Striped Soup Mix <br /> 2.Cranberry Orange Walnut Bread  <br /> 3.Black Cocoa Banana Mini-Breads <br /> 4.Big Bird’s Seed Crackers <br /> 5.Nutty Dried Fruit <br /> 6.Twinkle Spice <br /> 7.Sweet Sesame Snacking Almonds </p>
+      <p className='w-[80%] mx-auto mt-5 text-2xl font-bold'>By CHRIS WANES</p>
+    </div>
+  )
+}
